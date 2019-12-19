@@ -38,3 +38,34 @@ Console输出示例
 
 .NET CORE BUILD
 
+            if (word == "嫁娶") return "调试接口";
+	    
+            if (word == "纳采") return "取快递";
+	    
+            if (word == "订盟") return "团建";
+	    
+            if (word == "祭祀") return "祈祷无BUG";
+	    
+            if (word == "开光") return "性能优化";
+	    
+            if (word == "破土") return "挖矿";
+	    
+            if (word == "动土") return "改框架,挖墙脚";
+	    
+            if (word == "安门") return "留后门";
+	    
+            if (word == "作灶") return "搭环境";
+	    
+            if (word == "开市") return "产品上线";
+	    
+            if (word == "解除") return "辞职";
+	    
+            if (word == "破屋") return "界面美化";
+	    
+            if (word == "坏垣") return "当黑客";
+	    
+            if (word == "求医") return "BUG调试";
+	    
+            if (word == "交易") return "逛淘宝";
+	    ...
+           
