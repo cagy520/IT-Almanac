@@ -1,7 +1,12 @@
 # IT-Almanac
 IT程序员老黄历\IT-Almanac
 
+考虑到之前runjs.cn的一个老黄历版本丝毫没有科学神学参考依据
+
+所以在此重写了一版有参考依据的IT老黄历
+
 使用聚合数据源，每日限额100次，超过后有缓存可用
+
 Aggregate data source is used, with a daily limit of 100 times, and cache is available after exceeding
 
 Console输出示例
